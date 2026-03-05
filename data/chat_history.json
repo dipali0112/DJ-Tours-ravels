@@ -1,0 +1,1741 @@
+[
+  {
+    "userId": "0",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Show me beaches in Bali.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Find me flights to Paris.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "1",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "2",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "3",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plan a 3-day itinerary for New York.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Plan a 3-day itinerary for New York.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Show me beaches in Bali.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "5",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Find me flights to Paris.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "6",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Plan a 3-day itinerary for New York.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "7",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "8",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Find me flights to Paris.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "9",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Find me flights to Paris.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "10",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Find me flights to Paris.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "11",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Find me flights to Paris.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "12",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Show me beaches in Bali.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Show me beaches in Bali.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "13",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "14",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plan a 3-day itinerary for New York.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "15",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Show me beaches in Bali.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "16",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Plan a 3-day itinerary for New York.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "17",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I recommend staying at the Grand Hotel...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "18",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kuta Beach and Seminyak are popular choices.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "What are the best hotels in Tokyo?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to travel to Egypt right now?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Trattoria da Luigi is a great affordable option.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "19",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Find me flights to Paris.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's generally safe, but always check travel advisories.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Show me beaches in Bali.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Budget friendly restaurants in Rome?",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Central Park, Day 2: Statue of Liberty...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Show me beaches in Bali.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "user",
+        "content": "Find me flights to Paris.",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some flight options for you...",
+        "timestamp": "2026-02-17T06:41:33.852Z"
+      }
+    ]
+  },
+  {
+    "userId": "user_default",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Suggest a trip to Italy",
+        "timestamp": "2026-02-17T10:34:28.070Z"
+      },
+      {
+        "role": "assistant",
+        "content": "**Italy** is a great choice! You should consider visiting: \n- Rome, the Eternal City, with its Colosseum and Vatican City\n- Florence, the birthplace of the Renaissance, with its Duomo and Uffizi Gallery\n- Venice, the City of Water, with its canals and St. Mark's Square",
+        "suggestions": [
+          "Must-try Italian dishes?",
+          "Best time to visit Italy?",
+          "Transportation options from Rome to Florence?"
+        ],
+        "timestamp": "2026-02-17T10:34:28.070Z"
+      },
+      {
+        "role": "user",
+        "content": "Transportation options from Rome to Florence?",
+        "timestamp": "2026-02-17T10:36:15.990Z"
+      },
+      {
+        "role": "assistant",
+        "content": "To get from Rome to Florence, you have several options:\n  - **Train**: The fastest way, taking around 1.5 hours. You can book tickets on Trenitalia or Italo websites.\n  - **Bus**: A more affordable option, taking around 3-4 hours. Companies like FlixBus and Buscenter operate on this route.\n  - **Car or Rent a Car**: If you prefer driving, the journey takes around 2.5 hours via the A1 highway. You can rent a car in Rome and return it in Florence.\n  - **Private Transfer or Taxi**: A convenient option, but more expensive. You can book in advance through companies like Welcome Pickups or Blacklane.\n",
+        "suggestions": [
+          "What's the best time to visit Florence?",
+          "Accommodation options in Florence?",
+          "Must-see attractions in Florence?"
+        ],
+        "timestamp": "2026-02-17T10:36:15.990Z"
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2026-02-17T10:36:23.979Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I'm here to help you plan your trip. What's on your mind?",
+        "suggestions": [
+          "Looking for a specific destination?",
+          "Need help with travel documents?",
+          "Want to know more about a particular activity?"
+        ],
+        "timestamp": "2026-02-17T10:36:23.979Z"
+      },
+      {
+        "role": "user",
+        "content": "Looking for a specific destination?",
+        "timestamp": "2026-02-17T10:36:29.004Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Some popular destinations include **Santorini** for its stunning Greek islands, **Queenstown** for its beautiful New Zealand landscapes, or **Cinque Terre** for its colorful Italian coast. Where are you leaning?",
+        "suggestions": [
+          "Best time of year to visit?",
+          "Outdoor activities in the area?",
+          "Budget-friendly options?"
+        ],
+        "timestamp": "2026-02-17T10:36:29.005Z"
+      },
+      {
+        "role": "user",
+        "content": "Best time of year to visit?",
+        "timestamp": "2026-02-17T10:36:58.363Z"
+      },
+      {
+        "role": "assistant",
+        "content": "The best time to visit Cinque Terre depends on your preferences. **Summer** (June to August) is warm and sunny, but it's peak tourist season. **Spring** (April to May) and **Autumn** (September to October) are ideal for mild weather and fewer crowds. **Winter** (November to March) is the low season, but you can still enjoy beautiful landscapes and fewer tourists.",
+        "suggestions": [
+          "Hiking trails?",
+          "Accommodation options?",
+          "Food and drink recommendations?"
+        ],
+        "timestamp": "2026-02-17T10:36:58.363Z"
+      },
+      {
+        "role": "user",
+        "content": "Food and drink recommendations?",
+        "timestamp": "2026-02-17T11:01:37.080Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Cinque Terre is famous for its fresh seafood, especially **Ligurian-style pesto pasta** and **fried anchovies**. Don't forget to try **Limoncello**, a classic Italian digestif. For a unique experience, try the local **Farinata** (chickpea flatbread) and **Focaccia**.",
+        "suggestions": [
+          "Where to stay?",
+          "Hiking trails recommendations?",
+          "Wine tastings nearby?"
+        ],
+        "timestamp": "2026-02-17T11:01:37.080Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "128f7286-1acd-436e-92a2-a29dcf046106",
+    "userId": "test_user2",
+    "title": "Start new session",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Start new session",
+        "timestamp": "2026-02-17T11:12:08.535Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Welcome to our travel assistant service! How can I help you plan your next trip?",
+        "suggestions": [
+          "Are you looking for a domestic or international destination?",
+          "Do you have a specific budget in mind?",
+          "Are there any particular activities or interests you'd like to prioritize?"
+        ],
+        "timestamp": "2026-02-17T11:12:08.535Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "a3296cef-2646-4ea9-adab-d18c737a7f4d",
+    "userId": "user_default",
+    "title": "hello",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2026-02-17T11:14:34.247Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How can I assist you with your travel plans today?",
+        "suggestions": [
+          "Are you planning a domestic or international trip?",
+          "Do you have a specific destination in mind?",
+          "Is there a particular mode of transportation you'd like to use?"
+        ],
+        "timestamp": "2026-02-17T11:14:34.247Z"
+      },
+      {
+        "role": "user",
+        "content": "Are you planning a domestic or international trip?",
+        "timestamp": "2026-02-17T11:19:29.511Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Both options are exciting! If you're planning a domestic trip, I can help you discover hidden gems within your country. For an international trip, I can suggest destinations and recommend travel routes. What's your preferred duration for the trip?",
+        "suggestions": [
+          "Are you traveling solo or with others?",
+          "What type of activities are you interested in?",
+          "Budget constraints: any specific spending limits?"
+        ],
+        "timestamp": "2026-02-17T11:19:29.511Z"
+      },
+      {
+        "role": "user",
+        "content": "Are you traveling solo or with others?",
+        "timestamp": "2026-02-17T11:19:39.943Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Traveling with others can add an extra layer of fun and create lifelong memories. Are you traveling with family, friends, or a partner?",
+        "suggestions": [
+          "Do you have any specific activities or interests in mind?",
+          "What is your approximate budget for the trip?",
+          "Are you looking for a relaxing getaway or an adventure-filled vacation?"
+        ],
+        "timestamp": "2026-02-17T11:19:39.943Z"
+      },
+      {
+        "role": "user",
+        "content": "paris would be good option",
+        "timestamp": "2026-02-17T11:20:03.321Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Ah, Paris! The City of Light is a must-visit destination for any traveler. From the Eiffel Tower to the Louvre Museum, there's no shortage of iconic landmarks and cultural experiences. With its stunning architecture, rich history, and romantic atmosphere, Paris is a perfect choice for couples, foodies, and art enthusiasts alike. To help plan your trip, when are you thinking of visiting Paris?",
+        "suggestions": [
+          "What's your preferred accommodation style?",
+          "Are you interested in visiting any specific museums or landmarks?",
+          "How much time do you have for the trip?"
+        ],
+        "timestamp": "2026-02-17T11:20:03.321Z"
+      },
+      {
+        "role": "user",
+        "content": "How much time do you have for the trip?",
+        "timestamp": "2026-02-17T11:20:13.555Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Having a good idea of your time in Paris will help me tailor suggestions for you. Considering there's a lot to see and do in the city, it's best to have at least 4-5 days to explore. If you have more time, you can take day trips to nearby destinations like Versailles or Reims. If you have less time, I can recommend a 'Paris in a nutshell' itinerary for you.",
+        "suggestions": [
+          "Are you flexible with your travel dates?",
+          "Do you have a preferred accommodation type (e.g. hotel, Airbnb, hostel)?",
+          "Are there any specific Parisian experiences or attractions you want to prioritize?"
+        ],
+        "timestamp": "2026-02-17T11:20:13.555Z"
+      },
+      {
+        "role": "user",
+        "content": "Do you have a preferred accommodation type (e.g. hotel, Airbnb, hostel)?",
+        "timestamp": "2026-02-17T11:20:23.799Z"
+      },
+      {
+        "role": "assistant",
+        "content": "To find the perfect accommodation in Paris, I can suggest a mix of options. For a luxurious stay, consider a boutique hotel like Le Bristol or Hotel Plaza Athenee. If you're on a budget, you can opt for an Airbnb apartment in a charming neighborhood like Montmartre or Le Marais. For a social and affordable option, look into hostels like Le Village Hostel or Les Piaules. What's your budget for accommodation?",
+        "suggestions": [
+          "What's your daily budget for food and transportation?",
+          "Are you looking for a specific neighborhood to stay in?",
+          "Do you have any specific amenities in mind, like a view or a pool?"
+        ],
+        "timestamp": "2026-02-17T11:20:23.799Z"
+      },
+      {
+        "role": "user",
+        "content": "i need iternity for udaipur",
+        "timestamp": "2026-02-17T11:20:36.805Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Udaipur is a beautiful city known for its lakes, palaces, and scenic countryside. For a stay of eternity, I recommend exploring the following accommodations: **Lake Pichola View Villas** for a luxurious and serene stay, **Udaipur Heritage Haveli** for a glimpse into the city's rich cultural heritage, and **The Oberoi Udaivilas** for a regal experience. Consider booking a room with a lake view to enjoy the eternal beauty of Udaipur.",
+        "suggestions": [
+          "Would you like to explore any specific attractions in Udaipur?",
+          "Are you planning to take a romantic gondola ride on Lake Pichola?",
+          "Would you like some recommendations for local cuisine and dining experiences?"
+        ],
+        "timestamp": "2026-02-17T11:20:36.805Z"
+      },
+      {
+        "role": "user",
+        "content": "i want internity for daily basis for atleast 4-5 days i.e 20th to 25th feb 2026",
+        "timestamp": "2026-02-17T11:21:27.629Z"
+      },
+      {
+        "role": "assistant",
+        "content": "For a stay of 4-5 days from 20th to 25th Feb 2026, here are some accommodation suggestions in Udaipur:\n\n* **Lake Pichola View Villas**: A luxurious stay with stunning lake views, starting from ₹20,000 per night.\n* **Udaipur Heritage Haveli**: A heritage property with traditional Rajasthani architecture, starting from ₹15,000 per night.\n* **The Oberoi Udaivilas**: A luxurious palace hotel with regal amenities, starting from ₹30,000 per night.\n\nPlease note that prices may vary based on availability and season.\n\nTo confirm your booking, kindly provide your preferred accommodation and I'll guide you through the booking process.",
+        "suggestions": [
+          "What is your preferred accommodation?",
+          "Would you like to book a room with a lake view?",
+          "Do you need assistance with transportation from the airport?"
+        ],
+        "timestamp": "2026-02-17T11:21:27.629Z"
+      },
+      {
+        "role": "user",
+        "content": "i want to go with the cheaper option",
+        "timestamp": "2026-02-17T11:21:52.602Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Udaipur Heritage Haveli will be booked for you from 20th to 25th Feb 2026 at a price of ₹15,000 per night. Please note that prices may vary based on availability and season. Next steps: Confirm your flight bookings to Udaipur?",
+        "suggestions": [
+          "Do you want to book a domestic flight from Delhi/Mumbai to Udaipur?",
+          "Would you prefer a morning or afternoon flight to Udaipur?",
+          "Should I suggest some Udaipur itinerary for your 4-5 day stay?"
+        ],
+        "timestamp": "2026-02-17T11:21:52.602Z"
+      },
+      {
+        "role": "user",
+        "content": "Should I suggest some Udaipur itinerary for your 4-5 day stay?",
+        "timestamp": "2026-02-17T11:22:03.342Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, please suggest a Udaipur itinerary for 4-5 days, including must-visit attractions and activities. I'd also like to know about any local experiences or offbeat destinations that can be explored.",
+        "suggestions": [
+          "What are your interests?",
+          "Do you have a preferred mode of transportation?",
+          "What is your budget for activities and experiences?"
+        ],
+        "timestamp": "2026-02-17T11:22:03.342Z"
+      },
+      {
+        "role": "user",
+        "content": "my budget is approx 2000",
+        "timestamp": "2026-02-17T11:22:25.834Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Considering your budget of ₹2000 for 4-5 days in Udaipur, here's a suggested itinerary:\n* Day 1: Explore the City Palace, Jagdish Temple, and take a stroll around the Fateh Sagar Lake.\n* Day 2: Visit the Jag Mandir, Sahelion-ki-Bari, and the nearby Bagore Ki Haveli.\n* Day 3: Take a boat ride on Lake Pichola and visit the Jag Mandir Island.\n* Day 4: Explore the nearby Sajjangarh Monsoon Palace and take a walk in the nearby gardens.\n* Day 5: Visit the Eklingji Temple and the nearby Haldighati Museum.\n* Transportation: Use local autorickshaws or buses to get around the city.\n* Food: Try local street food like dal-bati-churma, kachoris, and rabdi.\n* Accommodation: Since you're staying at Udaipur Heritage Haveli, you'll have access to basic amenities and a comfortable stay.\nPlease note that this itinerary is tailored to fit your budget, but you may need to make some adjustments based on your personal preferences.\n\n**Suggested Budget Breakdown:**\n\n* Transportation: ₹500\n* Food: ₹800\n* Attractions: ₹500\n* Miscellaneous: ₹200\nTotal: ₹2000\n\nThis itinerary should help you experience the best of Udaipur without breaking the bank. Enjoy your trip!",
+        "suggestions": [
+          "What's your preferred mode of transportation?",
+          "Would you like to try any local cuisine or drinks?",
+          "Are you interested in shopping for souvenirs?"
+        ],
+        "timestamp": "2026-02-17T11:22:25.834Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "df5409e9-6fe2-40c3-a2f3-fdfb8db5d916",
+    "userId": "user_default",
+    "title": "Hello i need iternity for gujr...",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello i need iternity for gujrat kutch",
+        "timestamp": "2026-02-17T11:23:25.812Z"
+      },
+      {
+        "role": "assistant",
+        "content": "**Best Time to Visit Kutch, Gujarat:** The ideal time to visit Kutch is from November to February, when the weather is pleasant and ideal for sightseeing. If you're interested in the Rann Utsav (Festival of the Great Rann of Kutch), it takes place from December to February. For a beach experience, visit during the summer months (April to June).",
+        "suggestions": [
+          "What are your interests in Kutch?",
+          "How many days do you have for the trip?",
+          "Are you looking for any specific accommodation type?"
+        ],
+        "timestamp": "2026-02-17T11:23:25.812Z"
+      },
+      {
+        "role": "user",
+        "content": "can i go to white dessert at this month",
+        "timestamp": "2026-02-17T11:23:58.844Z"
+      },
+      {
+        "role": "assistant",
+        "content": "The Great Rann of Kutch, also known as the White Desert, is usually accessible from November to February. Since you're looking to visit in this month, the conditions are suitable for a visit. However, please note that it's a short period, and the desert may be crowded due to the Rann Utsav festival. Be prepared for chilly nights and clear skies.",
+        "suggestions": [
+          "Do you plan to attend the Rann Utsav festival?",
+          "Have you booked your accommodations in advance?",
+          "How do you plan to reach the White Desert?"
+        ],
+        "timestamp": "2026-02-17T11:23:58.844Z"
+      },
+      {
+        "role": "user",
+        "content": "Do you plan to attend the Rann Utsav festival?",
+        "timestamp": "2026-02-17T11:24:12.824Z"
+      },
+      {
+        "role": "assistant",
+        "content": "The Rann Utsav festival is a popular event, but as a digital AI assistant, I don't have a physical presence to attend events. However, I can provide you with information and insights to help you plan your trip.",
+        "suggestions": [
+          "What type of experiences are you looking for during the Rann Utsav festival?",
+          "Are you interested in accommodations within the festival grounds?",
+          "Can you tell me more about your budget for the festival?"
+        ],
+        "timestamp": "2026-02-17T11:24:12.824Z"
+      },
+      {
+        "role": "user",
+        "content": "Suggest a weekend getaway.",
+        "timestamp": "2026-02-17T12:15:54.199Z"
+      },
+      {
+        "role": "assistant",
+        "content": "**Dholavira: A Weekend Getaway from Kutch**\n\nDholavira is an archaeological site located in the Kutch district of Gujarat. It's a UNESCO World Heritage Site and a great weekend getaway from the Great Rann of Kutch. The site showcases the Indus Valley Civilization and offers a glimpse into India's ancient past. You can explore the ruins, visit the museum, and enjoy the scenic surroundings.",
+        "suggestions": [
+          "Which type of accommodation would you prefer for Dholavira?",
+          "What activities would you like to do during your Dholavira trip?",
+          "Have you visited any Indus Valley Civilization sites before?"
+        ],
+        "timestamp": "2026-02-17T12:15:54.199Z"
+      },
+      {
+        "role": "user",
+        "content": " In Indonesia, we prefer",
+        "timestamp": "2026-02-17T12:32:28.358Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It seems you're interested in Indonesia. However, our previous conversation was about Gujarat, India. If you'd like, we can start a new conversation about Indonesia.",
+        "suggestions": [
+          "Which island in Indonesia would you like to visit?",
+          "What type of activities are you interested in doing in Indonesia?",
+          "Have you been to Indonesia before?"
+        ],
+        "timestamp": "2026-02-17T12:32:28.358Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "d6c27e52-28cb-41f1-96fe-6e8f94dd9826",
+    "userId": "user_default",
+    "title": "Hello",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-02-18T07:21:45.207Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I'm your AI Travel Assistant. How can I help you plan your next trip?",
+        "suggestions": [
+          "What type of destination are you looking for?",
+          "Are you traveling solo or with a group?",
+          "Do you have a specific budget in mind?"
+        ],
+        "timestamp": "2026-02-18T07:21:45.207Z"
+      },
+      {
+        "role": "user",
+        "content": "Are you traveling solo or with a group?",
+        "timestamp": "2026-02-18T07:22:43.284Z"
+      },
+      {
+        "role": "assistant",
+        "content": "No preference, it depends on your travel plans. Would you like to plan a romantic getaway, a family vacation, or a group adventure?",
+        "suggestions": [
+          "Are you looking for a beach vacation or a city break?",
+          "What is your budget for the trip?",
+          "How long do you have for the trip?"
+        ],
+        "timestamp": "2026-02-18T07:22:43.284Z"
+      },
+      {
+        "role": "user",
+        "content": "Are you looking for a beach vacation or a city break?",
+        "timestamp": "2026-02-18T07:22:51.130Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm happy to assist with either option. Beach vacations are perfect for relaxation and unwinding, while city breaks offer a mix of culture, history, and entertainment. Which one are you leaning towards?",
+        "suggestions": [
+          "What's your preferred destination?",
+          "What's your budget for the trip?",
+          "How long do you want the trip to be?"
+        ],
+        "timestamp": "2026-02-18T07:22:51.130Z"
+      },
+      {
+        "role": "user",
+        "content": "What's your budget for the trip?",
+        "timestamp": "2026-02-18T07:22:54.942Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Budget can greatly impact the type of accommodations, activities, and destinations available. For a beach vacation, budget options can range from $800-$1,500 per person for a week, including flights, accommodations, and meals. For a city break, budget options can range from $1,000-$2,500 per person for a week, including flights, accommodations, and meals. Would you like to know more about budget-friendly destinations or luxury travel options?",
+        "suggestions": [
+          "Can you tell me what type of accommodations you're looking for?",
+          "Are there any specific activities or experiences you're interested in?",
+          "What's the approximate number of travelers in your group?"
+        ],
+        "timestamp": "2026-02-18T07:22:54.942Z"
+      },
+      {
+        "role": "user",
+        "content": "Are there any specific activities or experiences you're interested in?",
+        "timestamp": "2026-02-18T07:22:57.823Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Consider scuba diving for a beach vacation or visiting famous landmarks for a city break. If you're interested in food, consider a cooking class or wine tasting. If you're looking for adventure, consider skydiving or a hot air balloon ride. Would you like to know more about a specific activity?",
+        "suggestions": [
+          "Are you more interested in relaxation or adventure activities?",
+          "Would you like to know about off-the-beaten-path destinations?",
+          "Are there any specific cuisines you'd like to try?"
+        ],
+        "timestamp": "2026-02-18T07:22:57.823Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "ac7cb0ef-33d6-4e40-8d59-0da9bd837935",
+    "userId": "user_default",
+    "title": "I want to know some details ab...",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I want to know some details about dubai plan",
+        "timestamp": "2026-02-18T07:24:12.582Z"
+      },
+      {
+        "role": "assistant",
+        "content": "**Dubai Travel Plan: 5-Day Itinerary**\n\n**Day 1: Arrival and Exploring Downtown Dubai**\n* Arrive at Dubai International Airport\n* Check-in at your hotel and rest\n* Visit the iconic Burj Khalifa, the tallest building in the world\n* Explore the Dubai Mall and its attractions like the Dubai Fountain Show\n\n**Day 2: Desert Adventure**\n* Take a morning desert safari and experience dune bashing, camel riding, and sandboarding\n* Visit a traditional Bedouin camp for a delicious Arabic lunch and relaxation\n* Watch the stunning sunset in the desert\n\n**Day 3: Cultural Experience**\n* Visit the Al Fahidi Historical Neighbourhood and learn about Dubai's rich history and culture\n* Explore the museums like the Dubai Museum and the Al Shindagha Museum\n* Enjoy a traditional Arabic lunch at a local restaurant\n\n**Day 4: Beach Day and Water Parks**\n* Relax on the beautiful Jumeirah Beach or visit the Palm Jumeirah\n* Enjoy the thrilling rides at the Atlantis Water Park or the IMG Worlds of Adventure\n* Try water sports like parasailing or jet-skiing\n\n**Day 5: Shopping and Departure**\n* Spend the morning shopping at the Global Village or the Dubai Shopping Festival\n* Depart for the airport and head back home\n\n**Tips:*\n* Best time to visit Dubai: November to March\n* Dress modestly and respect local customs\n* Stay hydrated and protected from the sun\n* Book your tours and attractions in advance to avoid long queues",
+        "suggestions": [
+          "What is the best time to visit Dubai?",
+          "Can you suggest some local restaurants for Arabic cuisine?",
+          "How to get around Dubai without a car?"
+        ],
+        "timestamp": "2026-02-18T07:24:12.582Z"
+      },
+      {
+        "role": "user",
+        "content": "What is the best time to visit Dubai?",
+        "timestamp": "2026-02-18T07:24:21.672Z"
+      },
+      {
+        "role": "assistant",
+        "content": "The best time to visit Dubai is from November to March, when the weather is mild and pleasant. This period is ideal for tourists as the temperature ranges from 24°C to 28°C (75°F to 82°F). It's perfect for sightseeing, exploring the city, and enjoying outdoor activities like desert safaris and beach days.\n   \n   During this time, you can also experience the Dubai Shopping Festival, which takes place in January and February, and the Dubai Miracle Garden, which is open from November to May.\n   \n   Avoid visiting Dubai during the summer months (June to September) as the temperature can soar up to 45°C (113°F) and the humidity is high. It's not ideal for outdoor activities and sightseeing.\n   \n   If you're planning to visit Dubai for a specific event or festival, check the dates and plan your trip accordingly.",
+        "suggestions": [
+          "What are the most popular festivals and events in Dubai?",
+          "What are the top 5 things to do in Dubai during the winter season?",
+          "Can you recommend any budget-friendly hotels in Dubai?"
+        ],
+        "timestamp": "2026-02-18T07:24:21.672Z"
+      },
+      {
+        "role": "user",
+        "content": "Can you recommend any budget-friendly hotels in Dubai?",
+        "timestamp": "2026-02-18T07:24:30.275Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Budget-Friendly Hotels in Dubai:\n\nHere are some affordable options to consider:\n\n1. **Ibis Dubai Al Barsha**: Starting from AED 350 (approximately USD 95) per night.\n\n2. **Premier Inn Dubai Ibn Battuta Mall**: Starting from AED 350 (approximately USD 95) per night.\n\n3. **Ibis Dubai Al Lamza**: Starting from AED 300 (approximately USD 81) per night.\n\n4. **Citymax Hotel Bur Dubai**: Starting from AED 250 (approximately USD 68) per night.\n\n5. **Auris Boutique Hotel Al Barsha**: Starting from AED 300 (approximately USD 81) per night.\n\n6. **Hilton Garden Inn Dubai Mall of the Emirates**: Starting from AED 400 (approximately USD 109) per night.\n\n7. **Novotel Dubai Al Barsha**: Starting from AED 400 (approximately USD 109) per night.\n\n8. **Ibis Dubai Al Maktoum Airport**: Starting from AED 350 (approximately USD 95) per night.\n\n9. **Airbnb Options**: Consider staying in an apartment or room through Airbnb for a more affordable option, starting from AED 150 (approximately USD 40) per night.\n\n10. **Dubai Hostels**: For a more budget-friendly option, consider staying at a hostel, starting from AED 100 (approximately USD 27) per night.\n\nRemember to always research and compare prices before booking your stay.",
+        "suggestions": [
+          "Which area would you like to stay in? Downtown, Bur Dubai, or Al Barsha?",
+          "Do you have a specific budget in mind?",
+          "Are you looking for a hotel with a pool or other amenities?"
+        ],
+        "timestamp": "2026-02-18T07:24:30.275Z"
+      },
+      {
+        "role": "user",
+        "content": "Are you looking for a hotel with a pool or other amenities?",
+        "timestamp": "2026-02-18T07:26:34.008Z"
+      },
+      {
+        "role": "assistant",
+        "content": "If you're looking for a hotel with a pool or other amenities, here are some options to consider:\n\n* **Pool:** Ibis Dubai Al Barsha, Premier Inn Dubai Ibn Battuta Mall, and Novotel Dubai Al Barsha have outdoor pools.\n* **Free Breakfast:** Ibis Dubai Al Barsha, Premier Inn Dubai Ibn Battuta Mall, and Citymax Hotel Bur Dubai offer free breakfast.\n* **Fitness Center:** Novotel Dubai Al Barsha and Hilton Garden Inn Dubai Mall of the Emirates have fitness centers.\n* **Free Wi-Fi:** All the hotels I mentioned offer free Wi-Fi.\n\nTo narrow down your search, can you please tell me:\n* What's your preferred hotel location?\n* What's your budget per night?\n* Do you have any specific amenities in mind (e.g. pool, gym, free breakfast)?\n",
+        "suggestions": [
+          "Check hotel websites for the most up-to-date pricing and availability",
+          "Consider staying in a hotel that offers a free shuttle service to nearby attractions",
+          "Read hotel reviews to get a sense of the hotel's overall quality and amenities"
+        ],
+        "timestamp": "2026-02-18T07:26:34.008Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "7e339f3c-85b8-443b-adb7-6a186f6ee583",
+    "userId": "user_default",
+    "title": "Hello",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-02-18T07:26:44.823Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! Welcome to our travel assistant. We're here to help you plan your next trip. What kind of travel are you planning? Are you looking for relaxation, adventure, culture, or something else?",
+        "suggestions": [
+          "Where are you thinking of traveling to?",
+          "What is your budget for the trip?",
+          "What type of activities are you interested in?"
+        ],
+        "timestamp": "2026-02-18T07:26:44.823Z"
+      },
+      {
+        "role": "user",
+        "content": "I want to go on a trip, suggest some good places",
+        "timestamp": "2026-02-18T07:27:32.238Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are some popular travel destinations to consider:\n\n**Beach Lovers:**\n* Bali, Indonesia: Known for its beautiful beaches, temples, and vibrant culture.\n* Maui, Hawaii: Enjoy stunning beaches, lush rainforests, and volcanic landscapes.\n* The Maldives: Relax on pristine white-sand beaches and crystal-clear waters.\n\n**City Breaks:**\n* Tokyo, Japan: Experience the unique blend of traditional and modern culture.\n* New York City, USA: Explore iconic landmarks, museums, and diverse neighborhoods.\n* Paris, France: Discover art, fashion, and romance in the City of Light.\n\n**Nature Escapes:**\n* Iceland: Marvel at breathtaking landscapes, hot springs, and the Northern Lights.\n* Costa Rica: Hike through rainforests, explore wildlife, and relax on tropical beaches.\n* New Zealand: Enjoy stunning fjords, mountains, and geothermal wonders.\n\n**Cultural Heritage:**\n* India: Visit the Taj Mahal, explore vibrant cities, and experience diverse cultures.\n* Morocco: Discover ancient medinas, bustling souks, and delicious cuisine.\n* Italy: Explore historic cities, taste wine, and enjoy la dolce vita.\n\nWhich of these destinations resonates with you, or do you have a specific region in mind?",
+        "suggestions": [
+          "What type of activities are you interested in?",
+          "Are you looking for a budget-friendly option?",
+          "How many days do you have for the trip?"
+        ],
+        "timestamp": "2026-02-18T07:27:32.238Z"
+      },
+      {
+        "role": "user",
+        "content": "What type of activities are you interested in?",
+        "timestamp": "2026-02-18T07:27:42.093Z"
+      },
+      {
+        "role": "assistant",
+        "content": "To give you personalized recommendations, I'd love to know about your interests. Are you looking for activities such as:",
+        "suggestions": [
+          "Hiking or outdoor adventures",
+          "Exploring museums and art galleries",
+          "Trying new foods and drinks",
+          "Shopping or browsing local markets",
+          "Learning about history and culture",
+          "Relaxing on the beach or by a pool"
+        ],
+        "timestamp": "2026-02-18T07:27:42.093Z"
+      },
+      {
+        "role": "user",
+        "content": "Trying new foods and drinks",
+        "timestamp": "2026-02-18T07:32:19.411Z"
+      },
+      {
+        "role": "assistant",
+        "content": "If you're interested in trying new foods and drinks, here are some activities and destinations you might enjoy:\n\n*   **Food Tours:** Explore the local cuisine and flavors of cities like Tokyo, Bangkok, or New Orleans.\n*   **Wine Tastings:** Visit wine regions like Tuscany, Napa Valley, or Bordeaux to sample some of the world's best wines.\n*   **Cooking Classes:** Learn how to prepare traditional dishes like sushi, pasta, or tacos in a fun and interactive environment.\n*   **Markets and Bazaars:** Visit vibrant markets like the Grand Bazaar in Istanbul or the Tsukiji Fish Market in Tokyo to sample local specialties and drinks.\n*   **Coffee and Chocolate Tours:** Discover the art of coffee roasting and chocolate making in cities like Seattle or Brussels.\n\nSome popular destinations for foodies include:\n\n*   **Italy:** Known for its rich culinary heritage and diverse regional specialties.\n*   **Mexico:** Offers a wide range of delicious and spicy dishes, from tacos to mole.\n*   **Thailand:** Famous for its street food and night markets, where you can try everything from pad thai to mango sticky rice.\n*   **Spain:** Enjoy tapas, paella, and other delicious Mediterranean dishes in cities like Barcelona or Madrid.\n*   **Japan:** Experience the unique flavors and ingredients of Japanese cuisine, from sushi to ramen.\n\nSuggested itineraries include:\n\n*   **Taste of Italy:** Visit Rome, Florence, and Venice to sample the best of Italian cuisine.\n*   **Mexican Food Adventure:** Explore the culinary delights of Mexico City, Oaxaca, and Puerto Vallarta.\n*   **Thailand Food Tour:** Visit Bangkok, Chiang Mai, and Phuket to experience the flavors and aromas of Thai cuisine.\n*   **Spanish Tapas Trail:** Discover the best tapas bars and restaurants in Barcelona, Madrid, and Seville.\n*   **Japanese Food Odyssey:** Enjoy sushi, ramen, and other Japanese specialties in Tokyo, Kyoto, and Osaka.\n",
+        "suggestions": [
+          {
+            "destination": "Tokyo, Japan",
+            "description": "Experience the unique flavors and ingredients of Japanese cuisine"
+          },
+          {
+            "destination": "Bangkok, Thailand",
+            "description": "Explore the local cuisine and flavors of Bangkok"
+          },
+          {
+            "destination": "New Orleans, USA",
+            "description": "Discover the rich culinary heritage and diverse regional specialties"
+          },
+          {
+            "destination": "Barcelona, Spain",
+            "description": "Enjoy tapas, paella, and other delicious Mediterranean dishes"
+          }
+        ],
+        "timestamp": "2026-02-18T07:32:19.411Z"
+      },
+      {
+        "role": "user",
+        "content": "Learning about history and culture",
+        "timestamp": "2026-02-18T07:34:19.227Z"
+      },
+      {
+        "role": "assistant",
+        "content": "If you're interested in learning about history and culture, here are some destinations and activities you might enjoy:\n\n*   **Museums and Galleries:** Visit world-renowned museums like the Louvre in Paris, the British Museum in London, or the National Museum of Anthropology in Mexico City to learn about art, history, and culture.\n*   **Historic Landmarks:** Explore iconic sites like the Colosseum in Rome, the Taj Mahal in India, or the Great Wall of China to gain insight into the past and its significance.\n*   **Cultural Festivals:** Attend festivals like the Cherry Blossom Festival in Japan, the Carnaval in Rio de Janeiro, or the Holi Festival in India to experience local traditions and celebrations.\n*   **Historic Cities:** Visit cities like Venice, with its canals and ornate bridges, or Prague, with its stunning architecture and rich history.\n*   **Traditional Crafts:** Learn about local crafts like pottery, weaving, or woodcarving in places like Bali, Indonesia, or Oaxaca, Mexico.\n\nSome popular destinations for history and culture enthusiasts include:\n\n*   **Italy:** Known for its ancient ruins, Renaissance art, and rich history.\n*   **China:** Explore the Great Wall, the Forbidden City, and the Terracotta Army to learn about Chinese history and culture.\n*   **India:** Visit the Taj Mahal, the Red Fort, and the Golden Temple to experience the diversity and richness of Indian culture.\n*   **Japan:** Discover the history and culture of Japan in cities like Kyoto, Tokyo, and Osaka.\n*   **Mexico:** Learn about the Aztecs, Mayans, and Spanish colonial history in cities like Mexico City, Oaxaca, and San Miguel de Allende.\n\nSuggested itineraries include:\n\n*   **Ancient Civilizations:** Visit Greece, Turkey, and Egypt to explore the ruins of ancient civilizations.\n*   **Renaissance Italy:** Discover the art, architecture, and history of Florence, Rome, and Venice.\n*   **Chinese History:** Explore the Great Wall, the Forbidden City, and the Terracotta Army to learn about Chinese history and culture.\n*   **Indian Odyssey:** Visit the Taj Mahal, the Red Fort, and the Golden Temple to experience the diversity and richness of Indian culture.\n*   **Japanese Cultural Heritage:** Discover the history and culture of Japan in cities like Kyoto, Tokyo, and Osaka.\n",
+        "suggestions": [],
+        "timestamp": "2026-02-18T07:34:19.227Z"
+      },
+      {
+        "role": "user",
+        "content": " ہلو ہلو",
+        "timestamp": "2026-02-18T07:35:27.281Z"
+      },
+      {
+        "role": "assistant",
+        "content": "ہلو ہلو! آپ کے لیے ایک سے چار سفری تجویز کے ساتھ آئیے.",
+        "suggestions": [],
+        "timestamp": "2026-02-18T07:35:27.281Z"
+      },
+      {
+        "role": "user",
+        "content": " Hello.",
+        "timestamp": "2026-02-18T07:35:36.379Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I'd be happy to help you with some travel suggestions. Here are a few popular destinations:",
+        "suggestions": [
+          "Bali, Indonesia: Known for its beautiful beaches, temples, and vibrant culture.",
+          "Maui, Hawaii: Enjoy stunning beaches, lush rainforests, and volcanic landscapes.",
+          "The Maldives: Relax on pristine white-sand beaches and crystal-clear waters."
+        ],
+        "timestamp": "2026-02-18T07:35:36.379Z"
+      },
+      {
+        "role": "user",
+        "content": "I want to know about goa",
+        "timestamp": "2026-02-18T07:54:40.517Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Goa is a coastal state in western India known for its beautiful beaches, rich Portuguese heritage, and vibrant nightlife. Some popular attractions include the Palolem Beach, the Anjuna Beach, and the Fort Aguada. You can also visit the Dudhsagar Waterfalls, the Spice Plantations, and the Wildlife Sanctuaries. Goa is also famous for its seafood, and you can enjoy a variety of local dishes like fish curry, prawn masala, and vada pav.",
+        "suggestions": [],
+        "timestamp": "2026-02-18T07:54:40.517Z"
+      },
+      {
+        "role": "user",
+        "content": "Please create plan for 3/4 days in goa",
+        "timestamp": "2026-02-18T07:55:03.445Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Here's a suggested itinerary for 4 days in Goa:\n\nDay 1: Arrival and Relaxation\n\n*   Arrive at Goa International Airport or Madgaon Railway Station\n*   Check-in to your hotel or resort\n*   Spend the day relaxing on the beach or by the pool\n*   Enjoy a seafood dinner at a local restaurant\n\nDay 2: Palolem Beach and Spice Plantations\n\n*   Start the day with a delicious breakfast at the hotel\n*   Visit the Palolem Beach and enjoy swimming, sunbathing, or taking a boat ride\n*   Explore the nearby spice plantations and learn about the cultivation of spices like pepper, cinnamon, and cardamom\n*   Return to the hotel for a relaxing evening\n\nDay 3: Dudhsagar Waterfalls and Wildlife Sanctuaries\n\n*   Start the day early and visit the Dudhsagar Waterfalls\n*   Take a trek to the waterfalls and enjoy the scenic views\n*   Visit the nearby wildlife sanctuaries to spot animals like monkeys, birds, and reptiles\n*   Return to the hotel for a restful evening\n\nDay 4: Anjuna Beach and Nightlife\n\n*   Spend the morning relaxing on the beach or by the pool\n*   Visit the Anjuna Beach and enjoy water sports like surfing or paddleboarding\n*   Explore the local markets and shops for souvenirs\n*   Enjoy a lively evening at the beach with music, food, and drinks\n\nSome popular restaurants and bars to visit:\n\n*   The Fish Factory: Known for its seafood and fish-based dishes\n*   The Beach House: A popular spot for drinks and music\n*   The Park Hyatt Goa: A luxurious resort with multiple dining options\n*   The Anjuna Flea Market: A bustling market with local handicrafts and souvenirs\n\nSome popular activities to try:\n\n*   Yoga and meditation classes\n*   Water sports like surfing and paddleboarding\n*   Trekking to the Dudhsagar Waterfalls\n*   Wildlife spotting at the local sanctuaries\n\nThis itinerary provides a mix of relaxation, adventure, and cultural experiences. You can adjust it according to your interests and preferences.",
+        "suggestions": [],
+        "timestamp": "2026-02-18T07:55:03.445Z"
+      },
+      {
+        "role": "user",
+        "content": " Hello?",
+        "timestamp": "2026-02-18T07:55:31.973Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I'm here to help with your travel plans.",
+        "suggestions": [],
+        "timestamp": "2026-02-18T07:55:31.973Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "6b37ac65-630a-4c9a-9a08-a4bdca1b87dc",
+    "userId": "1d4ae205-180e-40df-91db-9f1b729b5373",
+    "title": "Hello",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-02-23T11:17:45.433Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Namaste! Welcome to India, a land of vibrant cultures, breathtaking landscapes, and warm hospitality. I'm here to guide you through the wonders of our beautiful country. What kind of travel experience are you looking for? Beach relaxation, mountain adventures, or exploring our rich heritage?",
+        "timestamp": "2026-02-23T11:17:45.434Z"
+      },
+      {
+        "role": "user",
+        "content": "I want to know about goa trip",
+        "timestamp": "2026-02-23T11:18:06.315Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Goa, the Pearl of the Orient, is a dream destination for many. Known for its pristine beaches, vibrant culture, and laid-back atmosphere, Goa offers a unique experience. Here's a brief overview:\n\n**Beaches:** Goa boasts some of the most beautiful beaches in the world, such as Palolem, Agonda, and Baga. You can enjoy water sports, relax on the shore, or take a sunset cruise.\n\n**Places to Visit:**\n\n* Basilica of Bom Jesus, a UNESCO World Heritage Site, where the remains of St. Francis Xavier are kept.\n* Fort Aguada, a 17th-century Portuguese fort with stunning views of the Arabian Sea.\n* Old Goa, a historic town with beautiful churches and colonial architecture.\n\n**Activities:**\n\n* Water sports, like surfing, snorkeling, and parasailing.\n* Yoga and wellness retreats.\n* Explore the local markets and try the famous Goan cuisine.\n\n**Travel Tips:*\n\n* Best time to visit: November to March.\n* Get a Goa tourism map to navigate the state easily.\n* Respect local customs and traditions.\n\nIf you're planning a trip to Goa, consider visiting these nearby destinations:\n\n* Dudhsagar Waterfalls, a stunning waterfall in the Western Ghats.\n* Colva Beach, a picturesque beach with a laid-back atmosphere.\n* Panjim, the capital city of Goa, with its colonial architecture and vibrant markets.",
+        "suggestions": [
+          "Dudhsagar Waterfalls",
+          "Colva Beach",
+          "Panjim"
+        ],
+        "timestamp": "2026-02-23T11:18:06.315Z"
+      },
+      {
+        "role": "user",
+        "content": "Please tell me price ",
+        "timestamp": "2026-02-23T11:18:22.791Z"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost of a trip to Goa can vary greatly depending on your travel style, accommodation choices, and activities. Here's a rough estimate of the expenses:\n\n* Accommodation:\n\t+ Budget-friendly options: ₹800-1,500 ( approx. $10-20 USD) per night (hostels, guesthouses)\n\t+ Mid-range options: ₹2,000-5,000 (approx. $25-65 USD) per night (hotels, resorts)\n\t+ Luxury options: ₹10,000-50,000 (approx. $130-650 USD) per night (high-end hotels, villas)\n* Food:\n\t+ Local street food: ₹50-100 (approx. $0.65-1.30 USD) per meal\n\t+ Mid-range restaurants: ₹200-500 (approx. $2.50-6.50 USD) per meal\n\t+ Fine dining: ₹1,000-3,000 (approx. $13-40 USD) per meal\n* Transportation:\n\t+ Local transportation (taxis, auto-rickshaws): ₹100-200 (approx. $1.30-2.60 USD) per ride\n\t+ Renting a bike or car: ₹500-2,000 (approx. $6.50-26 USD) per day\n* Activities:\n\t+ Water sports: ₹500-2,000 (approx. $6.50-26 USD) per person\n\t+ Yoga and wellness retreats: ₹2,000-5,000 (approx. $25-65 USD) per person\n* Total estimated cost for a 7-day trip to Goa:\n\t+ Budget-friendly: ₹20,000-40,000 (approx. $260-520 USD) per person\n\t+ Mid-range: ₹40,000-80,000 (approx. $520-1,040 USD) per person\n\t+ Luxury: ₹100,000-250,000 (approx. $1,300-3,250 USD) per person\n\nNote: These estimates are approximate and can vary depending on your specific travel plans and preferences.",
+        "suggestions": [
+          "Consider visiting during the off-season (April to September) for lower prices and fewer tourists.",
+          "Look for package deals or discounts on accommodations and activities to save money.",
+          "Use local transportation and eat at local restaurants to save on costs."
+        ],
+        "timestamp": "2026-02-23T11:18:22.793Z"
+      },
+      {
+        "role": "user",
+        "content": "Consider visiting during the off-season (April to September) for lower prices and fewer tourists.",
+        "timestamp": "2026-02-23T11:18:41.118Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Visiting Goa during the off-season (April to September) can be a great way to save money and avoid the crowds. Here's an updated estimate for the expenses:\n\n* Accommodation:\n\t+ Budget-friendly options: ₹500-1,000 (approx. $6.50-13 USD) per night (hostels, guesthouses)\n\t+ Mid-range options: ₹1,500-3,000 (approx. $19.50-39 USD) per night (hotels, resorts)\n\t+ Luxury options: ₹8,000-20,000 (approx. $104-260 USD) per night (high-end hotels, villas)\n* Food:\n\t+ Local street food: ₹30-70 (approx. $0.40-0.90 USD) per meal\n\t+ Mid-range restaurants: ₹150-300 (approx. $1.95-3.90 USD) per meal\n\t+ Fine dining: ₹800-2,000 (approx. $10.40-26 USD) per meal\n* Transportation:\n\t+ Local transportation (taxis, auto-rickshaws): ₹50-100 (approx. $0.65-1.30 USD) per ride\n\t+ Renting a bike or car: ₹300-1,000 (approx. $3.90-13 USD) per day\n* Activities:\n\t+ Water sports: ₹300-1,000 (approx. $3.90-13 USD) per person\n\t+ Yoga and wellness retreats: ₹1,000-2,500 (approx. $13-32.50 USD) per person\n* Total estimated cost for a 7-day trip to Goa during the off-season:\n\t+ Budget-friendly: ₹10,000-25,000 (approx. $130-325 USD) per person\n\t+ Mid-range: ₹25,000-50,000 (approx. $325-650 USD) per person\n\t+ Luxury: ₹60,000-150,000 (approx. $780-1,950 USD) per person\n",
+        "suggestions": [
+          "Dudhsagar Waterfalls",
+          "Colva Beach",
+          "Panjim Market"
+        ],
+        "timestamp": "2026-02-23T11:18:41.118Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "42083716-486c-46b3-9600-f91452c8ecf9",
+    "userId": "fca37c24-cb2b-4e4a-8f09-43a2b5ad7a73",
+    "title": "Hello",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-02-23T12:44:37.644Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Namaste! Welcome to India, a land of diverse cultures, breathtaking landscapes, and warm hospitality. I'm your AI Travel Assistant, dedicated to helping you explore the incredible experiences India has to offer. Where would you like to travel to in India?",
+        "suggestions": [
+          "Kerala for its backwaters and beaches",
+          "Rishikesh for its spiritual vibes and adventure activities",
+          "Goa for its vibrant beaches and nightlife"
+        ],
+        "timestamp": "2026-02-23T12:44:37.644Z"
+      },
+      {
+        "role": "user",
+        "content": "Kerala for its backwaters and beaches",
+        "timestamp": "2026-02-23T12:45:04.388Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Kerala is a paradise for nature lovers and those seeking relaxation. You can enjoy the serene backwaters of Alleppey, explore the scenic beaches of Varkala, and experience the rich cultural heritage of the state. Here's a brief overview of what you can expect:\n\nKerala's backwaters: Alleppey is famous for its tranquil backwaters, where you can take a houseboat ride and enjoy the scenic views of the surrounding villages and paddy fields.\nKerala's beaches: Varkala is a popular beach destination in Kerala, known for its stunning sunsets, pristine beaches, and scenic hiking trails.\nCultural experiences: Kerala is rich in culture and traditions, with many ancient temples, museums, and festivals to explore.\n\nTo help you plan your trip, I suggest the following destinations:\n* Alleppey for its backwaters and scenic boat rides\n* Varkala for its beaches and scenic hiking trails\n* Kochi for its cultural experiences and historic landmarks\n\nYou can also consider visiting other destinations in Kerala, such as Munnar for its tea plantations, Thekkady for its wildlife sanctuary, or Trivandrum for its historic temples and museums.",
+        "suggestions": [
+          "Alleppey",
+          "Varkala",
+          "Kochi"
+        ],
+        "timestamp": "2026-02-23T12:45:04.388Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "f1864a3c-4daa-47cf-a02a-2d19a0cc1b57",
+    "userId": "fca37c24-cb2b-4e4a-8f09-43a2b5ad7a73",
+    "title": "I need your help",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I need your help",
+        "timestamp": "2026-02-23T12:45:16.632Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Namaste! How can I assist you with your Indian travel plans? Would you like recommendations for a specific type of destination (beach, mountain, heritage, nature, or spiritual)?",
+        "suggestions": [],
+        "timestamp": "2026-02-23T12:45:16.632Z"
+      },
+      {
+        "role": "user",
+        "content": "I want to know about Manali ",
+        "timestamp": "2026-02-23T12:45:28.921Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Manali is a beautiful hill station in the Indian state of Himachal Pradesh. It's a popular destination for adventure seekers and those looking to escape the heat of the plains. Manali offers stunning views of the Himalayas, a serene atmosphere, and a range of activities such as trekking, skiing, and rafting.\n\nSome popular attractions in Manali include:\n* The Rohtang Pass, which offers breathtaking views of the surrounding mountains\n* The Solang Valley, known for its stunning landscapes and adventure sports\n* The Hadimba Temple, a beautiful wooden temple dedicated to the goddess Hadimba\n* The Manali Wildlife Sanctuary, a haven for nature lovers and birdwatchers\n\nManali is also famous for its adventure activities, such as:\n* Paragliding and skydiving for the thrill-seekers\n* Trekking and hiking for those who love the great outdoors\n* Skiing and snowboarding in the winter months\n* Rafting and kayaking in the nearby rivers\n\nWhen to visit: The best time to visit Manali is from April to June or September to November, when the weather is mild and pleasant.\n\nTravel tips:\n* Make sure to carry warm clothing during the winter months\n* Be prepared for sudden changes in weather\n* Respect local customs and traditions\n* Try the local cuisine, which includes dishes such as thukpa, momos, and gundruk\n* Don't forget to visit the nearby villages, which offer a glimpse into the traditional way of life in the Himalayas",
+        "suggestions": [
+          {
+            "destination": "Shimla",
+            "description": "A popular hill station in Himachal Pradesh, known for its colonial architecture, scenic valleys, and adventure activities"
+          },
+          {
+            "destination": "Kullu",
+            "description": "A picturesque town in Himachal Pradesh, famous for its annual Dussehra celebrations and scenic valleys"
+          }
+        ],
+        "timestamp": "2026-02-23T12:45:28.921Z"
+      },
+      {
+        "role": "user",
+        "content": "Give me price",
+        "timestamp": "2026-02-23T12:45:38.050Z"
+      },
+      {
+        "role": "assistant",
+        "content": "The prices in Manali can vary depending on the time of year, accommodation options, and activities. Here are some approximate price ranges:\n\n* Accommodation:\n + Budget-friendly options: ₹800-₹1,800 (≈ $10-$25 USD) per night\n + Mid-range options: ₹2,000-₹5,000 (≈ $25-$65 USD) per night\n + Luxury options: ₹8,000-₹20,000 (≈ $100-$250 USD) per night\n* Food:\n + Fast food/street food: ₹100-₹300 (≈ $1.50-$4.50 USD) per meal\n + Mid-range restaurants: ₹500-₹1,000 (≈ $7-$15 USD) per meal\n + Fine dining: ₹1,500-₹3,000 (≈ $20-$40 USD) per meal\n* Activities:\n + Trekking: ₹500-₹2,000 (≈ $7-$25 USD) per person\n + Skiing: ₹1,000-₹5,000 (≈ $15-$65 USD) per person\n + Rafting: ₹800-₹2,500 (≈ $10-$35 USD) per person\n* Transportation:\n + Taxi: ₹500-₹2,000 (≈ $7-$25 USD) per day\n + Bike rental: ₹200-₹1,000 (≈ $3-$15 USD) per day\n* Miscellaneous:\n + Entrance fees: ₹20-₹500 (≈ $0.30-$7 USD) per person\n + Guide fees: ₹1,000-₹5,000 (≈ $15-$65 USD) per day\n",
+        "suggestions": [],
+        "timestamp": "2026-02-23T12:45:38.050Z"
+      },
+      {
+        "role": "user",
+        "content": "Okay, now please create plan for 5 days ",
+        "timestamp": "2026-02-23T12:46:30.634Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day-wise itinerary for Manali, Himachal Pradesh",
+        "suggestions": [
+          {
+            "name": "Rohtang Pass",
+            "description": "Breathtaking views of the Himalayas"
+          },
+          {
+            "name": "Solang Valley",
+            "description": "Stunning landscapes and adventure sports"
+          },
+          {
+            "name": "Hadimba Temple",
+            "description": "Beautiful wooden temple dedicated to the goddess Hadimba"
+          },
+          {
+            "name": "Manali Wildlife Sanctuary",
+            "description": "Haven for nature lovers and birdwatchers"
+          }
+        ],
+        "timestamp": "2026-02-23T12:46:30.634Z"
+      },
+      {
+        "role": "user",
+        "content": "Yes",
+        "timestamp": "2026-02-23T12:46:40.011Z"
+      },
+      {
+        "role": "assistant",
+        "content": "### 5-Day Itinerary for Manali\n\n#### Day 1: Arrival + Acclimatization\n\n* Morning: Arrive in Manali by bus or taxi\n* Check-in to your hotel and freshen up\n* Visit the **Hadimba Temple**, a beautiful wooden temple dedicated to the goddess Hadimba\n* Explore the **Mall Road**, a bustling street lined with shops and restaurants\n* Evening: Enjoy a traditional Himachali dinner and relax\n\n#### Day 2: Solang Valley and Adventure Activities\n\n* Early morning: Visit the **Solang Valley**, known for its stunning landscapes and adventure sports\n* Try **paragliding** or **skydiving** for the thrill-seekers\n* Visit the **Snowboarding Point**, a popular spot for snowboarding and skiing\n* Return to Manali in the evening and enjoy a relaxing dinner\n\n#### Day 3: Rohtang Pass and Trekking\n\n* Early morning: Visit the **Rohtang Pass**, which offers breathtaking views of the surrounding mountains\n* Trek to the **Marhi**, a scenic spot with stunning views of the valley\n* Enjoy a picnic lunch at the Marhi and return to Manali in the evening\n* Evening: Explore the **Manali Market**, a bustling street lined with shops and restaurants\n\n#### Day 4: Manali Wildlife Sanctuary and Relaxation\n\n* Morning: Visit the **Manali Wildlife Sanctuary**, a haven for nature lovers and birdwatchers\n* Take a leisurely walk through the sanctuary and spot various species of birds and animals\n* Return to Manali in the evening and enjoy a relaxing dinner\n* Evening: Take a stroll along the **Beas River** and enjoy the scenic views\n\n#### Day 5: Departure\n\n* Morning: Check-out of your hotel and depart for your next destination\n* Visit the **Manali Bus Stand** and catch a bus or taxi to your next destination\n* Say goodbye to Manali and its breathtaking beauty\n\n### Travel Tips\n* Make sure to carry warm clothing during the winter months\n* Be prepared for sudden changes in weather\n* Respect local customs and traditions\n* Try the local cuisine, which includes dishes such as thukpa, momos, and gundruk\n* Don't forget to visit the nearby villages, which offer a glimpse into the traditional way of life in the Himalayas\n\n### Accommodation and Transportation\n* Stay at a hotel in Manali that suits your budget and preferences\n* Use public transport or taxis to travel within Manali\n* Book your bus or taxi tickets in advance to avoid any last-minute hassles\n",
+        "suggestions": [
+          "Kasol",
+          "Shimla",
+          "Dharamshala"
+        ],
+        "timestamp": "2026-02-23T12:46:40.011Z"
+      },
+      {
+        "role": "user",
+        "content": "Shimla",
+        "timestamp": "2026-02-23T12:46:50.442Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Shimla is a beautiful hill station in the Indian state of Himachal Pradesh. It is the capital of the state and is known for its stunning natural beauty, rich history, and cultural heritage. Shimla is a popular tourist destination and is often referred to as the 'Queen of Hills'.\n\nSome popular attractions in Shimla include:\n\n* The **Christ Church**, a beautiful church that dates back to 1857\n* The **Jakhoo Temple**, a temple dedicated to the god Hanuman\n* The **Mall Road**, a bustling street lined with shops and restaurants\n* The **Kufri Valley**, a scenic valley with stunning views of the Himalayas\n\nShimla is also famous for its adventure activities, such as:\n\n* **Hiking** and **trekking** for those who love the great outdoors\n* **Paragliding** and **skipping** for the thrill-seekers\n* **Skiing** and **snowboarding** in the winter months\n\nWhen to visit: The best time to visit Shimla is from April to June or September to November, when the weather is mild and pleasant.\n\nTravel tips:\n\n* Make sure to carry warm clothing during the winter months\n* Be prepared for sudden changes in weather\n* Respect local customs and traditions\n* Try the local cuisine, which includes dishes such as thukpa, momos, and gundruk\n* Don't forget to visit the nearby villages, which offer a glimpse into the traditional way of life in the Himalayas\n\n**Suggestions:**\n\n* Visit the **Kullu Valley**, which is known for its stunning natural beauty and rich cultural heritage\n* Take a **train ride** on the Kalka-Shimla railway, which is a UNESCO World Heritage Site\n* Visit the **Himalayan National Park**, which is home to a wide variety of flora and fauna\n\n**Prices:**\n\n* Accommodation: ₹800-₹2,000 (≈ $10-$25 USD) per night\n* Food: ₹100-₹500 (≈ $1.50-$7 USD) per meal\n* Activities: ₹500-₹2,000 (≈ $7-$25 USD) per person\n* Transportation: ₹500-₹2,000 (≈ $7-$25 USD) per day\n\n**5-Day Itinerary:**\n\nDay 1: Arrival + Acclimatization\n* Morning: Arrive in Shimla by bus or taxi\n* Check-in to your hotel and freshen up\n* Visit the Christ Church and explore the Mall Road\n* Evening: Enjoy a traditional Himachali dinner and relax\n\nDay 2: Kufri Valley and Adventure Activities\n* Early morning: Visit the Kufri Valley and enjoy the stunning views of the Himalayas\n* Try paragliding or skipping for the thrill-seekers\n* Visit the Jakhu Temple and return to Shimla in the evening\n* Evening: Explore the Shimla Market and try the local cuisine\n\nDay 3: Shimla Heritage Walk\n* Morning: Take a heritage walk through the old town of Shimla\n* Visit the Shimla State Museum and explore the local market\n* Return to your hotel and enjoy a relaxing dinner\n* Evening: Take a stroll along the Mall Road and enjoy the scenic views\n\nDay 4: Kullu Valley Tour\n* Morning: Visit the Kullu Valley and explore the local market\n* Take a boat ride on the Beas River and enjoy the stunning views of the valley\n* Return to Shimla in the evening and enjoy a traditional dinner\n* Evening: Explore the Shimla Market and try the local cuisine\n\nDay 5: Departure\n* Morning: Check-out of your hotel and depart for your next destination\n* Visit the Shimla Bus Stand and catch a bus or taxi to your next destination\n* Say goodbye to Shimla and its breathtaking beauty",
+        "suggestions": [
+          "Visit the Kullu Valley",
+          "Take a train ride on the Kalka-Shimla railway",
+          "Visit the Himalayan National Park"
+        ],
+        "timestamp": "2026-02-23T12:46:50.442Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "floating_session",
+    "userId": "guest_user",
+    "title": "Hello",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-02-24T06:03:19.315Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Namaste! Welcome to India, a land of rich culture, diverse landscapes, and warm hospitality. I'm your dedicated AI Travel Assistant, here to help you explore the best of India. What are you looking for? Beaches, majestic mountains, historical heritage sites, or perhaps some spiritual experiences?",
+        "timestamp": "2026-02-24T06:03:19.315Z"
+      },
+      {
+        "role": "user",
+        "content": "Show Hidden Gems",
+        "timestamp": "2026-02-24T06:08:23.949Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Are you ready to uncover the secrets of India? Here are some **Hidden Gems** to explore:\n\n* **Hampi, Karnataka**: A UNESCO World Heritage Site, Hampi is a treasure trove of ancient temples and ruins, showcasing the Vijayanagara Empire's grandeur.\n* **Mawlynnong, Meghalaya**: Nicknamed the 'Cleanest Village in Asia', Mawlynnong is a serene oasis with picturesque views, waterfalls, and a unique living root bridge.\n* **Rani Ki Vav, Gujarat**: An intricately carved stepwell, Rani Ki Vav is a testament to ancient engineering and artistry, built in the 11th century.\n* **Tawang, Arunachal Pradesh**: A scenic mountain town, Tawang is famous for its monasteries, prayer wheels, and the majestic Tawang Monastery.\n\nThese **Hidden Gems** are waiting to be discovered. Get ready to experience the authentic charm of India!",
+        "suggestions": [
+          "Hampi",
+          "Mawlynnong",
+          "Rani Ki Vav",
+          "Tawang"
+        ],
+        "timestamp": "2026-02-24T06:08:23.949Z"
+      },
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-02-24T06:10:20.567Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Namaste! Welcome to India, a land of rich culture, diverse landscapes, and warm hospitality. I'm your dedicated AI Travel Assistant, here to help you explore the best of India. What are you looking for? Beaches, majestic mountains, historical heritage sites, or perhaps some spiritual experiences?",
+        "suggestions": [
+          "Beaches: Goa, Andaman, Kerala",
+          "Mountains: Manali, Shimla, Leh-Ladakh",
+          "Heritage: Jaipur, Udaipur, Agra",
+          "Nature: Kerala (Alleppey), Coorg, Sikkim"
+        ],
+        "timestamp": "2026-02-24T06:10:20.567Z"
+      },
+      {
+        "role": "user",
+        "content": "I want to plan for Goa ",
+        "timestamp": "2026-02-24T06:10:37.459Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Goa, a tropical paradise on India's west coast, is a perfect destination for beach lovers, party enthusiasts, and those seeking a relaxing getaway. Here's a brief overview to help you plan your trip to Goa:\n\n**Best Time to Visit:** October to February\n\n**Must-Visit Places:*\n\n1. **Baga Beach:** A lively beach with excellent nightlife, water sports, and delicious seafood.\n2. **Palolem Beach:** A picturesque beach with crystal-clear waters, scenic views, and a variety of dolphins.\n3. **Fort Aguada:** A 17th-century Portuguese fort with stunning views of the Arabian Sea.\n4. **Old Goa:** A historic town with ancient churches, museums, and a rich cultural heritage.\n5. ** Dudhsagar Waterfalls:** A breathtaking waterfall amidst lush green forests.\n\n**Activities:*\n\n1. **Water Sports:** Enjoy snorkeling, scuba diving, sailing, or simply swimming in the Arabian Sea.\n2. **Dolphin Watching:** Take a boat tour to spot playful dolphins in their natural habitat.\n3. **Spice Plantations:** Visit plantations to learn about Goa's famous spices and herbs.\n4. **Go-Karting:** Experience the thrill of go-karting on the scenic roads of Goa.\n\n**Tips:*\n\n1. **Language:** Marathi and Konkani are the local languages, but English is widely spoken.\n2. **Currency:** Indian Rupee (INR).\n3. **Food:** Try local delicacies like seafood, Goan sausages, and spicy curries.\n\n**Other Recommendations:*\n\n*   **Suggested Destinations:** Pondicherry, Andaman, and Nicobar Islands.\n*   **Popular Accommodation:** Beach resorts, guesthouses, and homestays.\n*   **Getting Around:** Hire a scooter or take taxis and buses.",
+        "suggestions": [
+          {
+            "name": "Pondicherry",
+            "description": "A French colonial town with a rich history and cultural heritage."
+          },
+          {
+            "name": "Andaman and Nicobar Islands",
+            "description": "A tropical archipelago with crystal-clear waters, coral reefs, and unique wildlife."
+          }
+        ],
+        "timestamp": "2026-02-24T06:10:37.459Z"
+      }
+    ]
+  },
+  {
+    "sessionId": "0711c9ea-6d5a-4499-80d8-5631c00b3ecd",
+    "userId": "34ec6dfc-7771-4f1d-a5b6-1b13ad90fd65",
+    "title": "Hello",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello",
+        "timestamp": "2026-03-03T10:29:30.383Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Namaste! Welcome to India, a land of vibrant cultures, breathtaking landscapes, and warm hospitality. I'm your AI Travel Assistant, dedicated to helping you explore the wonders of our incredible country. What would you like to know or where would you like to go?",
+        "suggestions": [
+          "Goa for beaches",
+          "Taj Mahal in Agra",
+          "Hampi for history",
+          "Kerala for backwaters"
+        ],
+        "timestamp": "2026-03-03T10:29:30.383Z"
+      },
+      {
+        "role": "user",
+        "content": "Taj Mahal in Agra",
+        "timestamp": "2026-03-03T10:29:40.719Z"
+      },
+      {
+        "role": "assistant",
+        "content": "The Taj Mahal in Agra is a majestic wonder and one of the Seven Wonders of the World. This stunning white marble mausoleum is a masterpiece of Mughal architecture and a symbol of eternal love. The Taj Mahal's intricate inlays, calligraphy, and ornate decorations are a testament to the skilled artisans who built it.\n\nBuilt by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, the Taj Mahal is a must-visit destination for anyone interested in history, architecture, and romance.\n\nIf you're planning to visit the Taj Mahal, consider combining it with a trip to Fatehpur Sikri, a nearby abandoned city, or the bustling streets of Agra's old city, which are filled with vibrant markets and delicious food options.\n\n**Suggested destinations:**\n1. Fatehpur Sikri - Explore the ancient city and its stunning monuments.\n2. Varanasi - Visit the spiritual hub of India and experience its rich cultural heritage.\n3. Jaipur - Discover the Pink City's stunning architecture, vibrant markets, and delicious cuisine.\n4. Udaipur - Relax in this beautiful city of lakes and palaces, surrounded by breathtaking natural beauty.",
+        "suggestions": [
+          "Fatehpur Sikri",
+          "Varanasi",
+          "Jaipur",
+          "Udaipur"
+        ],
+        "timestamp": "2026-03-03T10:29:40.719Z"
+      },
+      {
+        "role": "user",
+        "content": "Give me plan from this website",
+        "timestamp": "2026-03-03T10:29:56.584Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Day 1: Arrival in Agra + Sightseeing at Taj Mahal\n   Activities: Arrive in Agra, check-in to your hotel, and visit the Taj Mahal at sunrise.\n   Places to visit: Taj Mahal, Agra Fort\n   Travel tips: Try to visit the Taj Mahal early in the morning to avoid the crowds. Wear comfortable shoes and sun protection.\n\n   Day 2: Taj Mahal + Fatehpur Sikri\n   Activities: Visit the Taj Mahal again, and then head to Fatehpur Sikri (40 km, 1.5 hours).\n   Places to visit: Fatehpur Sikri, Buland Darwaza, Jama Masjid\n   Travel tips: Try to visit Fatehpur Sikri early in the morning to avoid the heat. Wear comfortable shoes and sun protection.\n\n   Day 3: Agra Fort + Shopping\n   Activities: Visit the Agra Fort, and then explore the local markets and bazaars.\n   Places to visit: Agra Fort, Sadar Bazaar, Kinari Bazaar\n   Travel tips: Try to bargain while shopping at the local markets. Wear comfortable shoes and sun protection.\n\n   Day 4: Departure from Agra\n   Activities: Check-out from your hotel, and depart from Agra.\n   Travel tips: Try to check-out from your hotel early to avoid any last-minute rush.",
+        "suggestions": [
+          {
+            "name": "Fatehpur Sikri",
+            "description": "Explore the ancient city and its stunning monuments.",
+            "type": "heritage"
+          },
+          {
+            "name": "Varanasi",
+            "description": "Visit the spiritual hub of India and experience its rich cultural heritage.",
+            "type": "spiritual"
+          },
+          {
+            "name": "Jaipur",
+            "description": "Discover the Pink City's stunning architecture, vibrant markets, and delicious cuisine.",
+            "type": "heritage"
+          },
+          {
+            "name": "Udaipur",
+            "description": "Relax in this beautiful city of lakes and palaces, surrounded by breathtaking natural beauty.",
+            "type": "heritage"
+          }
+        ],
+        "timestamp": "2026-03-03T10:29:56.584Z"
+      }
+    ]
+  }
+]

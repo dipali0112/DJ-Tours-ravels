@@ -1,0 +1,849 @@
+[
+  {
+    "id": "0",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "password",
+    "avatar": "https://i.pravatar.cc/150?u=0",
+    "preferences": {
+      "language": "en",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "1",
+    "name": "Dorothy Brown",
+    "email": "dorothy.brown1@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=1",
+    "preferences": {
+      "language": "es",
+      "currency": "GBP",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Kimberly Wilson",
+    "email": "kimberly.wilson2@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=2",
+    "preferences": {
+      "language": "es",
+      "currency": "EUR",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Robert Davis",
+    "email": "robert.davis3@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=3",
+    "preferences": {
+      "language": "en",
+      "currency": "JPY",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Matthew Mitchell",
+    "email": "matthew.mitchell4@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=4",
+    "preferences": {
+      "language": "fr",
+      "currency": "JPY",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Michael Williams",
+    "email": "michael.williams5@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=5",
+    "preferences": {
+      "language": "fr",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Patricia Thomas",
+    "email": "patricia.thomas6@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=6",
+    "preferences": {
+      "language": "de",
+      "currency": "GBP",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Kenneth Anderson",
+    "email": "kenneth.anderson7@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=7",
+    "preferences": {
+      "language": "fr",
+      "currency": "GBP",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Karen Robinson",
+    "email": "karen.robinson8@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=8",
+    "preferences": {
+      "language": "de",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Jennifer Hernandez",
+    "email": "jennifer.hernandez9@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=9",
+    "preferences": {
+      "language": "es",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Melissa Williams",
+    "email": "melissa.williams10@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=10",
+    "preferences": {
+      "language": "es",
+      "currency": "USD",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Steven Gonzalez",
+    "email": "steven.gonzalez11@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=11",
+    "preferences": {
+      "language": "es",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Sandra Rodriguez",
+    "email": "sandra.rodriguez12@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=12",
+    "preferences": {
+      "language": "de",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Joseph Nelson",
+    "email": "joseph.nelson13@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=13",
+    "preferences": {
+      "language": "fr",
+      "currency": "GBP",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Sandra Sanchez",
+    "email": "sandra.sanchez14@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=14",
+    "preferences": {
+      "language": "fr",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Paul Carter",
+    "email": "paul.carter15@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=15",
+    "preferences": {
+      "language": "de",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Joseph Walker",
+    "email": "joseph.walker16@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=16",
+    "preferences": {
+      "language": "es",
+      "currency": "JPY",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Mark Smith",
+    "email": "mark.smith17@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=17",
+    "preferences": {
+      "language": "de",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Joseph Davis",
+    "email": "joseph.davis18@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=18",
+    "preferences": {
+      "language": "de",
+      "currency": "EUR",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Richard Thompson",
+    "email": "richard.thompson19@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=19",
+    "preferences": {
+      "language": "en",
+      "currency": "GBP",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "20",
+    "name": "Donald Wilson",
+    "email": "donald.wilson20@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=20",
+    "preferences": {
+      "language": "fr",
+      "currency": "EUR",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Carol Jones",
+    "email": "carol.jones21@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=21",
+    "preferences": {
+      "language": "en",
+      "currency": "EUR",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "22",
+    "name": "Joseph Gonzalez",
+    "email": "joseph.gonzalez22@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=22",
+    "preferences": {
+      "language": "de",
+      "currency": "GBP",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "23",
+    "name": "Robert Clark",
+    "email": "robert.clark23@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=23",
+    "preferences": {
+      "language": "es",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "24",
+    "name": "Donald Taylor",
+    "email": "donald.taylor24@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=24",
+    "preferences": {
+      "language": "en",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "25",
+    "name": "Thomas Flores",
+    "email": "thomas.flores25@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=25",
+    "preferences": {
+      "language": "de",
+      "currency": "JPY",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "26",
+    "name": "William Scott",
+    "email": "william.scott26@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=26",
+    "preferences": {
+      "language": "en",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "27",
+    "name": "Brian Lee",
+    "email": "brian.lee27@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=27",
+    "preferences": {
+      "language": "en",
+      "currency": "JPY",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "28",
+    "name": "Susan Wilson",
+    "email": "susan.wilson28@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=28",
+    "preferences": {
+      "language": "fr",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "29",
+    "name": "Robert Torres",
+    "email": "robert.torres29@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=29",
+    "preferences": {
+      "language": "de",
+      "currency": "EUR",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "30",
+    "name": "Kenneth Lee",
+    "email": "kenneth.lee30@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=30",
+    "preferences": {
+      "language": "fr",
+      "currency": "JPY",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "31",
+    "name": "Jennifer Wilson",
+    "email": "jennifer.wilson31@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=31",
+    "preferences": {
+      "language": "fr",
+      "currency": "GBP",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "32",
+    "name": "Michelle Gonzalez",
+    "email": "michelle.gonzalez32@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=32",
+    "preferences": {
+      "language": "de",
+      "currency": "USD",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "33",
+    "name": "Kimberly Miller",
+    "email": "kimberly.miller33@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=33",
+    "preferences": {
+      "language": "es",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "34",
+    "name": "Joshua King",
+    "email": "joshua.king34@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=34",
+    "preferences": {
+      "language": "fr",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "35",
+    "name": "Richard Thompson",
+    "email": "richard.thompson35@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=35",
+    "preferences": {
+      "language": "fr",
+      "currency": "EUR",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "36",
+    "name": "Edward Taylor",
+    "email": "edward.taylor36@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=36",
+    "preferences": {
+      "language": "fr",
+      "currency": "EUR",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "37",
+    "name": "Paul Johnson",
+    "email": "paul.johnson37@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=37",
+    "preferences": {
+      "language": "de",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "38",
+    "name": "Andrew Torres",
+    "email": "andrew.torres38@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=38",
+    "preferences": {
+      "language": "es",
+      "currency": "EUR",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "39",
+    "name": "Linda Nguyen",
+    "email": "linda.nguyen39@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=39",
+    "preferences": {
+      "language": "fr",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "40",
+    "name": "William Walker",
+    "email": "william.walker40@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=40",
+    "preferences": {
+      "language": "es",
+      "currency": "GBP",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "41",
+    "name": "Mark Wilson",
+    "email": "mark.wilson41@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=41",
+    "preferences": {
+      "language": "fr",
+      "currency": "EUR",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "42",
+    "name": "Kevin Clark",
+    "email": "kevin.clark42@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=42",
+    "preferences": {
+      "language": "en",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "43",
+    "name": "Joshua Davis",
+    "email": "joshua.davis43@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=43",
+    "preferences": {
+      "language": "fr",
+      "currency": "GBP",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "44",
+    "name": "Donald Hill",
+    "email": "donald.hill44@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=44",
+    "preferences": {
+      "language": "fr",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "45",
+    "name": "Deborah Brown",
+    "email": "deborah.brown45@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=45",
+    "preferences": {
+      "language": "en",
+      "currency": "EUR",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "46",
+    "name": "Edward Hall",
+    "email": "edward.hall46@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=46",
+    "preferences": {
+      "language": "de",
+      "currency": "EUR",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "47",
+    "name": "James Walker",
+    "email": "james.walker47@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=47",
+    "preferences": {
+      "language": "de",
+      "currency": "EUR",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "48",
+    "name": "Christopher Roberts",
+    "email": "christopher.roberts48@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=48",
+    "preferences": {
+      "language": "de",
+      "currency": "EUR",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "49",
+    "name": "Elizabeth Jackson",
+    "email": "elizabeth.jackson49@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=49",
+    "preferences": {
+      "language": "en",
+      "currency": "JPY",
+      "theme": "dark"
+    }
+  },
+  {
+    "id": "50",
+    "name": "William Anderson",
+    "email": "william.anderson50@example.com",
+    "password": "password123",
+    "avatar": "https://i.pravatar.cc/150?u=50",
+    "preferences": {
+      "language": "en",
+      "currency": "USD",
+      "theme": "light"
+    }
+  },
+  {
+    "id": "487a302f-03cb-4b11-ad58-6327aa36ce0a",
+    "name": "Manav Patel",
+    "email": "manav.patel@futurrizon.com",
+    "password": "$2b$10$SKqxlnOHcpm1BTGvH88bQOxB4k5MX0Emoikbl8UKRJLQz.tuCQjUW",
+    "avatar": "https://i.pravatar.cc/150?u=51",
+    "preferences": {
+      "language": "en",
+      "currency": "USD",
+      "theme": "light"
+    },
+    "createdAt": "2026-02-17T12:51:09.896Z"
+  },
+  {
+    "id": "dd7cad9e-a0e0-4787-b401-8c4310103788",
+    "name": "Dipali Joshi",
+    "email": "dipalijoshi0112@gmail.com",
+    "password": "$2b$10$2AyzOPFaSPCNDS7BD/eMrurCXY3YY4roR.e4jPAyKywBvaE.iYZb6",
+    "avatar": "https://i.pravatar.cc/150?u=52",
+    "preferences": {
+      "language": "en",
+      "currency": "USD",
+      "theme": "light"
+    },
+    "createdAt": "2026-02-18T08:11:31.748Z"
+  },
+  {
+    "id": "11409269-6dec-4d09-9c24-95a56bb6dff8",
+    "name": "Joshi Seema",
+    "email": "seemajoshi0112@gmail.com",
+    "password": "$2b$10$yXC57jH78D6dKzbnN5DN1O93AsqmDD6..s8nhpPoM1FVhQVzP/IFy",
+    "avatar": "https://i.pravatar.cc/150?u=53",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light"
+    },
+    "createdAt": "2026-02-19T10:13:32.575Z"
+  },
+  {
+    "id": "5f61c8b5-49a2-4881-9982-3dfccd78be82",
+    "name": "Vedanshi Shah",
+    "email": "vedanshishah20@gmail.com",
+    "password": "$2b$10$kLhF6J3uAnNylCwgLtEFMeJfWq56doutPHna1hkt4z6TWdl9RW6.a",
+    "avatar": "https://i.pravatar.cc/150?u=54",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light"
+    },
+    "createdAt": "2026-02-23T06:47:19.148Z"
+  },
+  {
+    "id": "73c4812c-9e2d-4a00-9712-7da20ace7b98",
+    "name": "Kiran Joshi",
+    "email": "KiranJoshi@gmail.com",
+    "password": "$2b$10$5YTwubGLrkvA9xelEwcl5egHgwtil7qjukQ342FLKdc7ohnLrflnK",
+    "avatar": "https://i.pravatar.cc/150?u=55",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light"
+    },
+    "createdAt": "2026-02-23T07:45:09.228Z"
+  },
+  {
+    "id": "1d4ae205-180e-40df-91db-9f1b729b5373",
+    "name": "Hirva Purohit",
+    "email": "hirvapurohit@gmail.com",
+    "password": "$2b$10$XOFxXv6O.DyMegHIsuAQxOMxwPybz3xCNByjJEFJasQJMnOTvzwRy",
+    "avatar": "",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light",
+      "budget": 15000,
+      "interests": [
+        "Luxury"
+      ],
+      "travelType": "Family",
+      "preferredMonth": "May",
+      "setupCompleted": true
+    },
+    "createdAt": "2026-02-23T08:20:19.443Z"
+  },
+  {
+    "id": "fca37c24-cb2b-4e4a-8f09-43a2b5ad7a73",
+    "name": "Seema Joshi",
+    "email": "SeemaJoshi02@gmail.com",
+    "password": "$2b$10$CoJrjBxgpmj5lH17I5P7Vuar3GsS2zUkcpHOxC91TcXRjxsTX6gWm",
+    "avatar": "",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light",
+      "budget": 20000,
+      "interests": [
+        "Adventure"
+      ],
+      "travelType": "Family",
+      "preferredMonth": "April",
+      "setupCompleted": true
+    },
+    "createdAt": "2026-02-23T12:42:30.385Z",
+    "phone": "9724336782",
+    "location": "Mumbai",
+    "bio": ""
+  },
+  {
+    "id": "0959ac2f-c1fb-4d77-b3fd-98f6bc21e3a3",
+    "name": "Suhani Shah",
+    "email": "suhanishah@gmail.com",
+    "password": "$2b$10$fKCeCKqHZXThDdwbQht8/.5BrTFQEfX1ZVycgjkc3Zovd5hImreKm",
+    "avatar": "",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light",
+      "budget": 25000,
+      "interests": [
+        "Spiritual"
+      ],
+      "travelType": "Solo",
+      "preferredMonth": "September",
+      "setupCompleted": true
+    },
+    "createdAt": "2026-02-24T05:24:14.027Z"
+  },
+  {
+    "id": "8fd81a7f-32d2-40f9-87bd-449cfc9ebfee",
+    "name": "Seema Joshi",
+    "email": "SeemaJoshi0210@gmail.com",
+    "password": "$2b$10$JJh99X10HtSkqSuVlMISmu6mCOqvV0RcXX6w0bPlDHCabYsmW/qTm",
+    "avatar": "",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light",
+      "budget": 20000,
+      "interests": [
+        "Spiritual"
+      ],
+      "travelType": "Family",
+      "preferredMonth": "October",
+      "setupCompleted": true
+    },
+    "createdAt": "2026-02-24T05:29:47.686Z",
+    "phone": "9724336782",
+    "location": "Mumbai",
+    "bio": "Hello"
+  },
+  {
+    "id": "79a3fe85-8b1e-4890-9d29-3646841f0850",
+    "name": "PATEL YASH RAJESHBHAI",
+    "email": "patelyash31@gmail.com",
+    "password": "$2b$10$/0PiYm4R/nNrxb9fIWYhu.kRgGWoXdLTJjkcB5zxfgCDmNL8/yZKK",
+    "avatar": "",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light",
+      "budget": 20000,
+      "interests": [
+        "Beaches"
+      ],
+      "travelType": "Friends",
+      "preferredMonth": "May",
+      "setupCompleted": true
+    },
+    "createdAt": "2026-02-24T06:14:23.427Z"
+  },
+  {
+    "id": "c2bcc482-bd5b-428e-bc80-5a5abd526365",
+    "name": "Tapan Bhakhar",
+    "email": "tapan27@gmail.com",
+    "password": "$2b$10$DerhWWq.18yjXm.FW9LMKuU4ABRnhi8EJ1tJZ5S5Fow30BHHoZ63W",
+    "avatar": "",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light"
+    },
+    "createdAt": "2026-02-24T16:43:24.107Z"
+  },
+  {
+    "id": "34ec6dfc-7771-4f1d-a5b6-1b13ad90fd65",
+    "name": "Dipali Joshi",
+    "email": "dipalijoshi03@gmail.com",
+    "password": "$2b$10$dUoQZ/lSj9dy.POYaIbIqOKBRvWkTknHJF2aZ7s/vhjj.x4L.k0WW",
+    "avatar": "",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light",
+      "budget": 25000,
+      "interests": [
+        "Adventure"
+      ],
+      "travelType": "Solo",
+      "preferredMonth": "February",
+      "setupCompleted": true
+    },
+    "createdAt": "2026-03-03T10:28:27.357Z"
+  },
+  {
+    "id": "43eb7edf-c28e-4456-b38f-98a4c5b3e039",
+    "name": "himupandya",
+    "email": "himupandya01@gmail.com",
+    "password": "$2b$10$9VNMM8LJmL9/nUZ4wjoMouN2vC/AvFqqyeK2hf3eErGfEblLe7xAG",
+    "avatar": "",
+    "favorites": [],
+    "preferences": {
+      "language": "en",
+      "currency": "INR",
+      "theme": "light",
+      "budget": 25000,
+      "interests": [
+        "Beaches"
+      ],
+      "travelType": "Honeymoon",
+      "preferredMonth": "August",
+      "setupCompleted": true
+    },
+    "createdAt": "2026-03-05T09:18:35.346Z"
+  }
+]
