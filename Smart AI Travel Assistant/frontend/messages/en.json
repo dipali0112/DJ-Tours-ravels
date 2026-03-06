@@ -1,0 +1,84 @@
+{
+    "HomePage": {
+        "title": "Smart AI Travel Assistant",
+        "subtitle": "Discover your next adventure with AI-powered recommendations.",
+        "explore": "Explore Destinations",
+        "chat": "Chat with AI"
+    },
+    "Navbar": {
+        "home": "Home",
+        "destinations": "Destinations",
+        "packages": "Packages",
+        "about": "About Us",
+        "contact": "Contact",
+        "login": "Login",
+        "signup": "Sign Up"
+    },
+    "LanguageSwitcher": {
+        "label": "Language",
+        "en": "English",
+        "gu": "Gujarati",
+        "hi": "Hindi",
+        "es": "Spanish",
+        "fr": "French"
+    },
+    "HeroSection": {
+        "explore": "Explore",
+        "whereTo": "Where to?",
+        "searchPlaceholder": "Ex: Kerala, Goa..."
+    },
+    "Footer": {
+        "description": "Premium travel experiences for modern explorers.",
+        "links": "Quick Links",
+        "legal": "Legal",
+        "rights": "All rights reserved.",
+        "newsletter": "Newsletter",
+        "subscribe": "Subscribe",
+        "placeholder": "Enter your email"
+    },
+    "StatsSection": {
+        "presence": "Our Presence",
+        "titleMain": "Tailored travel with",
+        "titleSub": "soulful care.",
+        "description": "Budget-friendly solutions and highly detailed itineraries curated by our seasoned travel specialists.",
+        "destinations": "Indian Destinations",
+        "rating": "Average Rating",
+        "support": "Personal Support"
+    },
+    "Destinations": {
+        "topChoices": "Top Choices",
+        "curated": "Curated",
+        "destinations": "Destinations",
+        "starts": "Starts"
+    },
+    "Recommendations": {
+        "scouting": "Expert Travel Scouting",
+        "titleMain": "Smart",
+        "titleSub": "Travel",
+        "titleEnd": "Recommendations",
+        "description": "Discover your perfect Indian getaway tailored to your preferences, timing, and budget.",
+        "when": "When are you traveling?",
+        "anytime": "Anytime",
+        "more": "More months...",
+        "budget": "Max Budget",
+        "view": "View Itinerary"
+    },
+    "FAQ": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Everything you need to know about your next adventure.",
+        "support": "Common Support",
+        "questions": "Common",
+        "qMain": "Questions.",
+        "sub": "Simple answers for your smooth journey through India."
+    },
+    "Packages": {
+        "heroTitle": "Travel Packages",
+        "heroSubtitle": "Curated all-inclusive journeys across the Indian subcontinent.",
+        "searchPlaceholder": "Search packages...",
+        "resultTitle": "Available",
+        "resultSub": "Packages",
+        "foundText": "Found {count} matching packages",
+        "sortBy": "Sort by",
+        "viewBtn": "View Details"
+    }
+}

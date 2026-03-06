@@ -1,0 +1,84 @@
+{
+    "HomePage": {
+        "title": "Asistente de Viajes Inteligente IA",
+        "subtitle": "Descubre tu próxima aventura con recomendaciones impulsadas por IA.",
+        "explore": "Explorar Destinos",
+        "chat": "Chatear con IA"
+    },
+    "Navbar": {
+        "home": "Inicio",
+        "destinations": "Destinos",
+        "packages": "Paquetes",
+        "about": "Sobre nosotros",
+        "contact": "Contacto",
+        "login": "Iniciar sesión",
+        "signup": "Registrarse"
+    },
+    "LanguageSwitcher": {
+        "label": "Idioma",
+        "en": "English",
+        "gu": "ગુજરાતી",
+        "hi": "हिन्दी",
+        "es": "Español",
+        "fr": "Français"
+    },
+    "HeroSection": {
+        "explore": "Explorar",
+        "whereTo": "¿A dónde vas?",
+        "searchPlaceholder": "Ej: Kerala, Goa..."
+    },
+    "Footer": {
+        "description": "Experiencias de viaje premium para exploradores modernos.",
+        "links": "Enlaces rápidos",
+        "legal": "Legal",
+        "rights": "Todos los derechos reservados.",
+        "newsletter": "Boletín informativo",
+        "subscribe": "Suscribirse",
+        "placeholder": "Introduce tu correo"
+    },
+    "StatsSection": {
+        "presence": "Nuestra Presencia",
+        "titleMain": "Viajes a medida con",
+        "titleSub": "cuidado sincero.",
+        "description": "Soluciones económicas e itinerarios muy detallados seleccionados por nuestros especialistas en viajes experimentados.",
+        "destinations": "Destinos en India",
+        "rating": "Calificación Promedio",
+        "support": "Soporte Personal"
+    },
+    "Destinations": {
+        "topChoices": "Mejores Opciones",
+        "curated": "Curados",
+        "destinations": "Destinos",
+        "starts": "Comienza"
+    },
+    "Recommendations": {
+        "scouting": "Búsqueda de Viajes Experta",
+        "titleMain": "Recomendaciones",
+        "titleSub": "de Viaje",
+        "titleEnd": "Inteligentes",
+        "description": "Descubre tu escapada india perfecta adaptada a tus preferencias, tiempo y presupuesto.",
+        "when": "¿Cuándo viajas?",
+        "anytime": "Cualquier momento",
+        "more": "Más meses...",
+        "budget": "Presupuesto Máximo",
+        "view": "Ver Itinerario"
+    },
+    "FAQ": {
+        "title": "Preguntas Frecuentes",
+        "subtitle": "Todo lo que necesitas saber sobre tu próxima aventura.",
+        "support": "Soporte Común",
+        "questions": "Preguntas",
+        "qMain": "Comunes.",
+        "sub": "Respuestas sencillas para tu viaje sin problemas por la India."
+    },
+    "Packages": {
+        "heroTitle": "Paquetes de Viaje",
+        "heroSubtitle": "Viajes todo incluido curados en el subcontinente indio.",
+        "searchPlaceholder": "Buscar paquetes...",
+        "resultTitle": "Disponible",
+        "resultSub": "Paquetes",
+        "foundText": "Se encontraron {count} paquetes coincidentes",
+        "sortBy": "Ordenar por",
+        "viewBtn": "Ver Detalles"
+    }
+}

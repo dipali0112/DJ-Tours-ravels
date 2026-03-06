@@ -1,0 +1,55 @@
+
+> frontend@0.1.0 build
+> next build
+
+ΓÜá Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\KEVAL JOSHI\package-lock.json as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * C:\Users\KEVAL JOSHI\Desktop\Smart AI Travel Assistant\Smart AI Travel Assistant\frontend\package-lock.json
+
+Γû▓ Next.js 16.1.6 (Turbopack)
+- Environments: .env.local
+
+ΓÜá The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+  Creating an optimized production build ...
+Γ£ô Compiled successfully in 7.7s
+  Running TypeScript ...
+  Collecting page data using 11 workers ...
+  Generating static pages using 11 workers (0/4) ...
+  Generating static pages using 11 workers (1/4) 
+  Generating static pages using 11 workers (2/4) 
+  Generating static pages using 11 workers (3/4) 
+Γ£ô Generating static pages using 11 workers (4/4) in 144.5ms
+  Finalizing page optimization ...
+
+Route (app)
+Γöî Γùï /_not-found
+Γö£ ╞Æ /[locale]
+Γö£ ╞Æ /[locale]/about
+Γö£ ╞Æ /[locale]/blog
+Γö£ ╞Æ /[locale]/booking/[id]
+Γö£ ╞Æ /[locale]/chat
+Γö£ ╞Æ /[locale]/checkout
+Γö£ ╞Æ /[locale]/contact
+Γö£ ╞Æ /[locale]/dashboard
+Γö£ ╞Æ /[locale]/destinations
+Γö£ ╞Æ /[locale]/destinations/[id]
+Γö£ ╞Æ /[locale]/faq
+Γö£ ╞Æ /[locale]/login
+Γö£ ╞Æ /[locale]/newsletter
+Γö£ ╞Æ /[locale]/packages
+Γö£ ╞Æ /[locale]/profile
+Γö£ ╞Æ /[locale]/refund
+Γö£ ╞Æ /[locale]/signup
+Γö£ ╞Æ /[locale]/team
+Γö£ ╞Æ /[locale]/terms
+Γöö ╞Æ /api/debug-trips
+
+
+╞Æ Proxy (Middleware)
+
+Γùï  (Static)   prerendered as static content
+╞Æ  (Dynamic)  server-rendered on demand
+
